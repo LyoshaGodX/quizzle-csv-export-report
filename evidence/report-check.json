@@ -1,0 +1,518 @@
+{
+  "checkedAt": "2026-10-05T16:47:13.787Z",
+  "localReferences": 127,
+  "embeddedReportImages": 11,
+  "sourceArtifactsVerified": 48,
+  "passed": true,
+  "limitation": "Local links, anchors and byte integrity only; not rendered-browser or remote-link verification.",
+  "checked": [
+    {
+      "document": "README.md",
+      "target": "ARTIFACTS.md"
+    },
+    {
+      "document": "README.md",
+      "target": "#1-задание-и-результаты"
+    },
+    {
+      "document": "README.md",
+      "target": "#2-образовательный-контекст-и-управление-проектом"
+    },
+    {
+      "document": "README.md",
+      "target": "#3-исходное-состояние"
+    },
+    {
+      "document": "README.md",
+      "target": "#4-issue-и-критерии-готовности"
+    },
+    {
+      "document": "README.md",
+      "target": "#5-план-временных-затрат"
+    },
+    {
+      "document": "README.md",
+      "target": "#6-ветвление-и-история-изменений"
+    },
+    {
+      "document": "README.md",
+      "target": "#7-реализация"
+    },
+    {
+      "document": "README.md",
+      "target": "#8-проверка-и-образцы-файлов"
+    },
+    {
+      "document": "README.md",
+      "target": "#9-фактическое-выполнение-и-ограничения"
+    },
+    {
+      "document": "README.md",
+      "target": "#10-воспроизведение"
+    },
+    {
+      "document": "README.md",
+      "target": "index.html"
+    },
+    {
+      "document": "README.md",
+      "target": "speech.md"
+    },
+    {
+      "document": "README.md",
+      "target": "samples/practice-results_SPEC_2026-10-05.csv"
+    },
+    {
+      "document": "README.md",
+      "target": "defense/protocol-template.md"
+    },
+    {
+      "document": "README.md",
+      "target": "source-artifacts/QUIZZLE-LICENSE"
+    },
+    {
+      "document": "README.md",
+      "target": "screenshots/before-desktop.jpg"
+    },
+    {
+      "document": "README.md",
+      "target": "issue.md"
+    },
+    {
+      "document": "README.md",
+      "target": "issue.json"
+    },
+    {
+      "document": "README.md",
+      "target": "screenshots/issue-before.jpg"
+    },
+    {
+      "document": "README.md",
+      "target": "screenshots/after-desktop.jpg"
+    },
+    {
+      "document": "README.md",
+      "target": "plan.json"
+    },
+    {
+      "document": "README.md",
+      "target": "screenshots/projects-plan-before.jpg"
+    },
+    {
+      "document": "README.md",
+      "target": "evidence/pull-request-created.json"
+    },
+    {
+      "document": "README.md",
+      "target": "screenshots/pull-request-open.jpg"
+    },
+    {
+      "document": "README.md",
+      "target": "screenshots/commits.jpg"
+    },
+    {
+      "document": "README.md",
+      "target": "evidence/self-review.json"
+    },
+    {
+      "document": "README.md",
+      "target": "evidence/completion.json"
+    },
+    {
+      "document": "README.md",
+      "target": "screenshots/pull-request-merged.jpg"
+    },
+    {
+      "document": "README.md",
+      "target": "screenshots/projects-final.jpg"
+    },
+    {
+      "document": "README.md",
+      "target": "screenshots/after-desktop.jpg"
+    },
+    {
+      "document": "README.md",
+      "target": "screenshots/special-desktop.jpg"
+    },
+    {
+      "document": "README.md",
+      "target": "screenshots/empty-desktop.jpg"
+    },
+    {
+      "document": "README.md",
+      "target": "screenshots/after-mobile.jpg"
+    },
+    {
+      "document": "README.md",
+      "target": "fixtures/attempts.json"
+    },
+    {
+      "document": "README.md",
+      "target": "scripts/seed-demo.cjs"
+    },
+    {
+      "document": "README.md",
+      "target": "evidence/browser-downloads.json"
+    },
+    {
+      "document": "README.md",
+      "target": "samples/practice-results_NORM_2026-10-05.csv"
+    },
+    {
+      "document": "README.md",
+      "target": "samples/practice-results_EMPT_2026-10-05.csv"
+    },
+    {
+      "document": "README.md",
+      "target": "samples/practice-results_SPEC_2026-10-05.csv"
+    },
+    {
+      "document": "README.md",
+      "target": "samples/Übungsquiz_NORM_Analytics_20261005T144513.xlsx"
+    },
+    {
+      "document": "README.md",
+      "target": "evidence/unit-tests.txt"
+    },
+    {
+      "document": "README.md",
+      "target": "evidence/build.txt"
+    },
+    {
+      "document": "README.md",
+      "target": "evidence/full-lint.txt"
+    },
+    {
+      "document": "README.md",
+      "target": "evidence/scoped-lint.txt"
+    },
+    {
+      "document": "README.md",
+      "target": "evidence/timing.json"
+    },
+    {
+      "document": "README.md",
+      "target": "index.html"
+    },
+    {
+      "document": "README.md",
+      "target": "speech.md"
+    },
+    {
+      "document": "README.md",
+      "target": "index.html"
+    },
+    {
+      "document": "README.md",
+      "target": "evidence/artifacts-check.json"
+    },
+    {
+      "document": "README.md",
+      "target": "evidence/report-check.json"
+    },
+    {
+      "document": "README.md",
+      "target": "PUBLICATION.md"
+    },
+    {
+      "document": "README.md",
+      "target": "ARTIFACTS.md"
+    },
+    {
+      "document": "README.md",
+      "target": "evidence/source-manifest.json"
+    },
+    {
+      "document": "speech.md",
+      "target": "index.html"
+    },
+    {
+      "document": "speech.md",
+      "target": "defense/protocol-template.md"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/source-manifest.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "source-artifacts"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "issue.md"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "issue.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "plan.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "stages.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "pull-request.md"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "README.md"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "screenshots/before-desktop.jpg"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "screenshots/after-desktop.jpg"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "screenshots/after-mobile.jpg"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "screenshots/empty-desktop.jpg"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "screenshots/special-desktop.jpg"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "screenshots/issue-before.jpg"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "screenshots/projects-plan-before.jpg"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "screenshots/projects-final.jpg"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "screenshots/commits.jpg"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "screenshots/pull-request-open.jpg"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "screenshots/pull-request-merged.jpg"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "fixtures/attempts.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "samples/practice-results_NORM_2026-10-05.csv"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "samples/practice-results_EMPT_2026-10-05.csv"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "samples/practice-results_SPEC_2026-10-05.csv"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "samples/Übungsquiz_NORM_Analytics_20261005T144513.xlsx"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": ".gitattributes"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/unit-tests.txt"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/build.txt"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/full-lint.txt"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/scoped-lint.txt"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/browser-downloads.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/responsive.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/before-dom.txt"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/after-dom.txt"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/empty-dom.txt"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/special-dom.txt"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/projects-plan-before.txt"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/projects-final-dom.txt"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/issue-final-dom.txt"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/pull-request-created.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/pull-request-merged-dom.txt"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/self-review.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/completion.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/timing.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/artifacts-check.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "README.md"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "index.html"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "speech.md"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "defense/protocol-template.md"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "PUBLICATION.md"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/source-manifest.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/report-check.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/report-downloads-check.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "evidence/report-scoped-lint.txt"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "scripts/verify-artifacts.cjs"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "scripts/verify-downloads.cjs"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "scripts/verify-lint.cjs"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "scripts/seed-demo.cjs"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "scripts/record-source-manifest.cjs"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "source-artifacts/README.md"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "source-artifacts/index.html"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "source-artifacts/speech.md"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "source-artifacts/scripts"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "source-artifacts/QUIZZLE-LICENSE"
+    },
+    {
+      "document": "PUBLICATION.md",
+      "target": "index.html"
+    },
+    {
+      "document": "defense/protocol-template.md",
+      "target": "../speech.md"
+    },
+    {
+      "document": "defense/protocol-template.md",
+      "target": "../index.html"
+    },
+    {
+      "document": "defense/protocol-template.md",
+      "target": "../README.md"
+    },
+    {
+      "document": "index.html",
+      "target": "screenshots/before-desktop.jpg"
+    },
+    {
+      "document": "index.html",
+      "target": "screenshots/after-desktop.jpg"
+    },
+    {
+      "document": "index.html",
+      "target": "samples/practice-results_SPEC_2026-10-05.csv"
+    },
+    {
+      "document": "index.html",
+      "target": "samples/practice-results_EMPT_2026-10-05.csv"
+    }
+  ]
+}

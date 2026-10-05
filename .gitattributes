@@ -1,0 +1,11 @@
+* text eol=lf
+samples/** -text
+screenshots/** -text
+fixtures/** -text
+evidence/** -text
+source-artifacts/** -text
+issue.md -text
+issue.json -text
+plan.json -text
+pull-request.md -text
+stages.json -text

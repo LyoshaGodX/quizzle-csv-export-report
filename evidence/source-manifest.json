@@ -1,0 +1,297 @@
+{
+  "recordedAt": "2026-10-05T16:47:12.533Z",
+  "sourceRepository": "https://github.com/LyoshaGodX/Quizzle",
+  "sourceCommit": "4ead0c338d3967f3e565749769139bcec2964c69",
+  "sourceDirectory": "docs/coursework/csv-export",
+  "fileCount": 48,
+  "files": [
+    {
+      "sourcePath": ".gitattributes",
+      "reportPath": "source-artifacts/.gitattributes",
+      "bytes": 21,
+      "sha256": "4da605260eb1c2d1f9f7c51e52cd8d5ac302756610f992ec4b5c4ac878428418"
+    },
+    {
+      "sourcePath": "README.md",
+      "reportPath": "source-artifacts/README.md",
+      "bytes": 38663,
+      "sha256": "c08233691918364920908877bddd0abb51b9c3545a52a86805e330fffe52db21"
+    },
+    {
+      "sourcePath": "evidence/after-dom.txt",
+      "reportPath": "evidence/after-dom.txt",
+      "bytes": 1230,
+      "sha256": "068bb5e95962b6d22d942109dde81183ed7fdc2cd53e686e0b05e04434e00ec4"
+    },
+    {
+      "sourcePath": "evidence/artifacts-check.json",
+      "reportPath": "evidence/artifacts-check.json",
+      "bytes": 4345,
+      "sha256": "6c93cd45c481abfaff1d15317cae78e29490ff323cbb13af4898dfd4115903dc"
+    },
+    {
+      "sourcePath": "evidence/before-dom.txt",
+      "reportPath": "evidence/before-dom.txt",
+      "bytes": 1149,
+      "sha256": "f194cb40e517d9dbecfe7666532752a0528bd41a5c7ad5d6b9ee0b0ae0d3b9e7"
+    },
+    {
+      "sourcePath": "evidence/browser-downloads.json",
+      "reportPath": "evidence/browser-downloads.json",
+      "bytes": 1220,
+      "sha256": "570846094e382274a0ddc7800bfcd545fe7c47df7d372d64b16e8104fdeb5815"
+    },
+    {
+      "sourcePath": "evidence/build.txt",
+      "reportPath": "evidence/build.txt",
+      "bytes": 8296,
+      "sha256": "908ed022dc9876fa09e4e7b3fe3ab45d23d99f56d3aae595f609b50bbfa9bba2"
+    },
+    {
+      "sourcePath": "evidence/completion.json",
+      "reportPath": "evidence/completion.json",
+      "bytes": 824,
+      "sha256": "bde7fca6ebd19c5fdaf44bcfb1a9938231fd4c1f9684d3c6664472eb37d282fc"
+    },
+    {
+      "sourcePath": "evidence/empty-dom.txt",
+      "reportPath": "evidence/empty-dom.txt",
+      "bytes": 1274,
+      "sha256": "5c7815152338e8e35d489d98ee1af32928ad01263234d82a467823d3cf0df91e"
+    },
+    {
+      "sourcePath": "evidence/full-lint.txt",
+      "reportPath": "evidence/full-lint.txt",
+      "bytes": 595,
+      "sha256": "f1e39b1c9659529c2f91589619ff52a7cde9aa0cd2cb5503a0444d341a2e7a1a"
+    },
+    {
+      "sourcePath": "evidence/issue-final-dom.txt",
+      "reportPath": "evidence/issue-final-dom.txt",
+      "bytes": 18420,
+      "sha256": "1d1b4c4e22406f5e133bdcdec1e0df49fec7c25e9e32433b875e1a729179402c"
+    },
+    {
+      "sourcePath": "evidence/projects-final-dom.txt",
+      "reportPath": "evidence/projects-final-dom.txt",
+      "bytes": 8772,
+      "sha256": "83b820cf4697fdeee20c0196113bf681abf76cef0d3d0bddee14162feec9a941"
+    },
+    {
+      "sourcePath": "evidence/projects-plan-before.txt",
+      "reportPath": "evidence/projects-plan-before.txt",
+      "bytes": 8942,
+      "sha256": "7e69e6a4e2cfae80a44d9a94b8e688cc04477034f2725f22441f4a26f036199e"
+    },
+    {
+      "sourcePath": "evidence/pull-request-created.json",
+      "reportPath": "evidence/pull-request-created.json",
+      "bytes": 21156,
+      "sha256": "e316396b980644db043d620728ed6043e7161fcd843cdc2bdfa5f7cd3591347e"
+    },
+    {
+      "sourcePath": "evidence/pull-request-merged-dom.txt",
+      "reportPath": "evidence/pull-request-merged-dom.txt",
+      "bytes": 14545,
+      "sha256": "4f02e57e65a95d5bd23e5e66b796a6c5fc7279ebcccef0ab7644413eed08cd40"
+    },
+    {
+      "sourcePath": "evidence/responsive.json",
+      "reportPath": "evidence/responsive.json",
+      "bytes": 260,
+      "sha256": "c9ac18dd9227779ae02ab733f0f3f5b2247afd2d249f5bb53daf32352509c831"
+    },
+    {
+      "sourcePath": "evidence/scoped-lint.txt",
+      "reportPath": "evidence/scoped-lint.txt",
+      "bytes": 212,
+      "sha256": "9f80dae8eea3a9efc3b3be3b969bfe0bc0820024e76e32eaa9322e926be8e7b3"
+    },
+    {
+      "sourcePath": "evidence/self-review.json",
+      "reportPath": "evidence/self-review.json",
+      "bytes": 2379,
+      "sha256": "e174ba76ac481e1381eadd91a9467b3deeb0064191410c7e5b717e3b0a979ce8"
+    },
+    {
+      "sourcePath": "evidence/special-dom.txt",
+      "reportPath": "evidence/special-dom.txt",
+      "bytes": 1771,
+      "sha256": "c3f2b70a63fccc2c0b1831023304a0706860da65f428b5d20d18cc6192af1080"
+    },
+    {
+      "sourcePath": "evidence/timing.json",
+      "reportPath": "evidence/timing.json",
+      "bytes": 302,
+      "sha256": "c2568408f9b606b746376caa607d76f78fb7f9916ffa6d21a87c223c194ce6e7"
+    },
+    {
+      "sourcePath": "evidence/unit-tests.txt",
+      "reportPath": "evidence/unit-tests.txt",
+      "bytes": 1435,
+      "sha256": "0e7db783256189ca8a1f63e7a21ab9b9056b940b63f6f3c5d14bbe74b9ea24ba"
+    },
+    {
+      "sourcePath": "fixtures/attempts.json",
+      "reportPath": "fixtures/attempts.json",
+      "bytes": 960,
+      "sha256": "85dff07ece390764f44531223633057e82b6a25cf1f7a314bd9ef4889f7195e7"
+    },
+    {
+      "sourcePath": "index.html",
+      "reportPath": "source-artifacts/index.html",
+      "bytes": 9008,
+      "sha256": "13ab25d0846a72f9234874f13de7ae1db8b3845b6fe7edd45bba4ab8bde897cf"
+    },
+    {
+      "sourcePath": "issue.json",
+      "reportPath": "issue.json",
+      "bytes": 5759,
+      "sha256": "e89ab71742f207d9f02408a1731d73507403746d28d4b317b97cefcb1fb278c7"
+    },
+    {
+      "sourcePath": "issue.md",
+      "reportPath": "issue.md",
+      "bytes": 3032,
+      "sha256": "e71fa2dd652d39f00178a79ed4584c34817672dc62de145fbd2fa77f0aa3ba4e"
+    },
+    {
+      "sourcePath": "plan.json",
+      "reportPath": "plan.json",
+      "bytes": 2056,
+      "sha256": "40f53e9dd2d2006526a6fcb8bf236537c30cf860e402332c2ec3422064a7cf93"
+    },
+    {
+      "sourcePath": "pull-request.md",
+      "reportPath": "pull-request.md",
+      "bytes": 2489,
+      "sha256": "46641c4db566fc6a58712b7dfd30ea08cc398a2e259fa21db63103bc33a9ec3e"
+    },
+    {
+      "sourcePath": "samples/practice-results_EMPT_2026-10-05.csv",
+      "reportPath": "samples/practice-results_EMPT_2026-10-05.csv",
+      "bytes": 56,
+      "sha256": "a2810f79077d6e2fab77f8ecb28a3d069da4a9e4098c30933e921f683d1d11a1"
+    },
+    {
+      "sourcePath": "samples/practice-results_NORM_2026-10-05.csv",
+      "reportPath": "samples/practice-results_NORM_2026-10-05.csv",
+      "bytes": 211,
+      "sha256": "943c734342568e5874957c9fc89cb8249d35a341d29193ea3aa90dec7a6f8565"
+    },
+    {
+      "sourcePath": "samples/practice-results_SPEC_2026-10-05.csv",
+      "reportPath": "samples/practice-results_SPEC_2026-10-05.csv",
+      "bytes": 361,
+      "sha256": "99661bd87f35888da8017bfc565d5ae040bbc29e338750fa9ef8ff2fb06376f8"
+    },
+    {
+      "sourcePath": "samples/Übungsquiz_NORM_Analytics_20261005T144513.xlsx",
+      "reportPath": "samples/Übungsquiz_NORM_Analytics_20261005T144513.xlsx",
+      "bytes": 25443,
+      "sha256": "51d41ec41ce303e6cb746dcb60dbbc95d81e59e7bffc78e5d645f29f7a50ea9c"
+    },
+    {
+      "sourcePath": "screenshots/after-desktop.jpg",
+      "reportPath": "screenshots/after-desktop.jpg",
+      "bytes": 74358,
+      "sha256": "9ef70738176c0a23b80ed48b6fea4a58b429b7a78260db0c800c9d73659d3cb7"
+    },
+    {
+      "sourcePath": "screenshots/after-mobile.jpg",
+      "reportPath": "screenshots/after-mobile.jpg",
+      "bytes": 65863,
+      "sha256": "0c7f9158edf891fedbccc0dba6c457cb6458285c5f8d2c2029018c8c53884abf"
+    },
+    {
+      "sourcePath": "screenshots/before-desktop.jpg",
+      "reportPath": "screenshots/before-desktop.jpg",
+      "bytes": 69995,
+      "sha256": "55126b9a87983a4009c6da32ed12d7050cf240088b7d60b12a1bda2eee0f99d9"
+    },
+    {
+      "sourcePath": "screenshots/commits.jpg",
+      "reportPath": "screenshots/commits.jpg",
+      "bytes": 63770,
+      "sha256": "4e77e9451de6c13036f1a85ab2432e106090b07e324c274ef9cf3d21f91ae5fe"
+    },
+    {
+      "sourcePath": "screenshots/empty-desktop.jpg",
+      "reportPath": "screenshots/empty-desktop.jpg",
+      "bytes": 78672,
+      "sha256": "4e6de904500e0a4232713656e2f7aeb3e875353a84eaeed2e06b9884e5755fb5"
+    },
+    {
+      "sourcePath": "screenshots/issue-before.jpg",
+      "reportPath": "screenshots/issue-before.jpg",
+      "bytes": 277472,
+      "sha256": "697a4abd1b5b4a2b58fdae9fc966ce7df9396364ca8e18f852ab926cca465f22"
+    },
+    {
+      "sourcePath": "screenshots/projects-final.jpg",
+      "reportPath": "screenshots/projects-final.jpg",
+      "bytes": 84051,
+      "sha256": "6e31a8ccb29b65c137ec637ae82cd407fff8364f2348e96f0b2f92cf4b3da971"
+    },
+    {
+      "sourcePath": "screenshots/projects-plan-before.jpg",
+      "reportPath": "screenshots/projects-plan-before.jpg",
+      "bytes": 87383,
+      "sha256": "d0436de28d3fd5ad09e81787e8eb3270e684928740b25b906f1e75d11c7af44e"
+    },
+    {
+      "sourcePath": "screenshots/pull-request-merged.jpg",
+      "reportPath": "screenshots/pull-request-merged.jpg",
+      "bytes": 322373,
+      "sha256": "c622697421a0434edb460b86964753fb5715dd07c49085304945e2a51dd02817"
+    },
+    {
+      "sourcePath": "screenshots/pull-request-open.jpg",
+      "reportPath": "screenshots/pull-request-open.jpg",
+      "bytes": 266422,
+      "sha256": "f600799c087b0877db63ef990285a755fc4106ac5f033511ad7ac1ba8e39a8b5"
+    },
+    {
+      "sourcePath": "screenshots/special-desktop.jpg",
+      "reportPath": "screenshots/special-desktop.jpg",
+      "bytes": 86208,
+      "sha256": "71dbeb497ba142cc974f3c5bf236158e5e7e54fb5b6f2b5e0b487f96e56686df"
+    },
+    {
+      "sourcePath": "scripts/seed-demo.cjs",
+      "reportPath": "source-artifacts/scripts/seed-demo.cjs",
+      "bytes": 3170,
+      "sha256": "b2de14082163ee2cac8245d796eb32f3189dc81afc26af767f2748c0699fb6b2"
+    },
+    {
+      "sourcePath": "scripts/verify-artifacts.cjs",
+      "reportPath": "source-artifacts/scripts/verify-artifacts.cjs",
+      "bytes": 1645,
+      "sha256": "97b88989c0046403a22022bbf5a14430f1598249928a34b0eff3257c4b67f3d4"
+    },
+    {
+      "sourcePath": "scripts/verify-downloads.cjs",
+      "reportPath": "source-artifacts/scripts/verify-downloads.cjs",
+      "bytes": 2747,
+      "sha256": "2a81bff709ecd0489399cc32101d63d213dd0fb7857a03967ed21b788faeb930"
+    },
+    {
+      "sourcePath": "scripts/verify-lint.cjs",
+      "reportPath": "source-artifacts/scripts/verify-lint.cjs",
+      "bytes": 1963,
+      "sha256": "59bda01c2c17d04b62886d3df9a733d66e7b003e2b754efa7a38c3e5f7ae4416"
+    },
+    {
+      "sourcePath": "speech.md",
+      "reportPath": "source-artifacts/speech.md",
+      "bytes": 9008,
+      "sha256": "c64c8f7ead394638e77d9aac1378a7f30c5907739ec8e4edab7af1f49fd46dcd"
+    },
+    {
+      "sourcePath": "stages.json",
+      "reportPath": "stages.json",
+      "bytes": 1625,
+      "sha256": "0b0ec2f71e3264cba3ebf392427635313685e275cc0e024c343032b4fd0aac31"
+    }
+  ]
+}
