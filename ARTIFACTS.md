@@ -79,9 +79,11 @@
 | [report-check.json](evidence/report-check.json) | Проверка ссылок и контрольных сумм нового комплекта |
 | [report-downloads-check.json](evidence/report-downloads-check.json) | Повторное чтение неизмененных выгрузок после переноса |
 | [report-scoped-lint.txt](evidence/report-scoped-lint.txt) | Повторная ограниченная проверка исходных файлов функции |
+| [report-pages-check.json](evidence/report-pages-check.json) | HTTP 200 и совпадение опубликованного HTML, двух снимков и двух CSV |
 | [verify-artifacts.cjs](scripts/verify-artifacts.cjs) | Независимая от Quizzle проверка ссылок и SHA-256 |
 | [verify-downloads.cjs](scripts/verify-downloads.cjs) | Чтение образцов через SheetJS из установленного Quizzle |
 | [verify-lint.cjs](scripts/verify-lint.cjs) | Ограниченный lint исходного кода; путь к Quizzle передается аргументом |
+| [verify-published-site.cjs](scripts/verify-published-site.cjs) | Проверка доставки опубликованного сайта и его локальных ресурсов, без браузера |
 | [seed-demo.cjs](scripts/seed-demo.cjs) | Подготовка синтетической локальной среды, не запускать на рабочем сервере |
 | [record-source-manifest.cjs](scripts/record-source-manifest.cjs) | Однократная фиксация переноса, требует оригинальный клон Quizzle |
 | [README оригинала](source-artifacts/README.md), [сайт оригинала](source-artifacts/index.html), [сценарий оригинала](source-artifacts/speech.md) | Нередактированные снимки прежних документов |

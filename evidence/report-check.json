@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-05T16:47:13.787Z",
-  "localReferences": 127,
+  "checkedAt": "2026-10-05T16:52:04.602Z",
+  "localReferences": 131,
   "embeddedReportImages": 11,
   "sourceArtifactsVerified": 48,
   "passed": true,
@@ -197,6 +197,10 @@
     {
       "document": "README.md",
       "target": "speech.md"
+    },
+    {
+      "document": "README.md",
+      "target": "evidence/report-pages-check.json"
     },
     {
       "document": "README.md",
@@ -444,6 +448,10 @@
     },
     {
       "document": "ARTIFACTS.md",
+      "target": "evidence/report-pages-check.json"
+    },
+    {
+      "document": "ARTIFACTS.md",
       "target": "scripts/verify-artifacts.cjs"
     },
     {
@@ -453,6 +461,10 @@
     {
       "document": "ARTIFACTS.md",
       "target": "scripts/verify-lint.cjs"
+    },
+    {
+      "document": "ARTIFACTS.md",
+      "target": "scripts/verify-published-site.cjs"
     },
     {
       "document": "ARTIFACTS.md",
@@ -485,6 +497,10 @@
     {
       "document": "PUBLICATION.md",
       "target": "index.html"
+    },
+    {
+      "document": "PUBLICATION.md",
+      "target": "evidence/report-pages-check.json"
     },
     {
       "document": "defense/protocol-template.md",

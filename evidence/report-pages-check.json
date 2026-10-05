@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-10-05T16:52:03.464Z",
+  "passed": true,
+  "checks": [
+    {
+      "url": "https://lyoshagodx.github.io/quizzle-csv-export-report/",
+      "status": 200,
+      "bytes": 9540,
+      "sha256": "a0427c7067b99f3a702ea9ada70350931fb4dc936c72f3f317549e9ed5b8d349",
+      "comparison": "HTML with Git LF normalization",
+      "matchesLocal": true
+    },
+    {
+      "url": "https://lyoshagodx.github.io/quizzle-csv-export-report/screenshots/before-desktop.jpg",
+      "status": 200,
+      "bytes": 69995,
+      "sha256": "55126b9a87983a4009c6da32ed12d7050cf240088b7d60b12a1bda2eee0f99d9",
+      "comparison": "exact bytes",
+      "matchesLocal": true
+    },
+    {
+      "url": "https://lyoshagodx.github.io/quizzle-csv-export-report/screenshots/after-desktop.jpg",
+      "status": 200,
+      "bytes": 74358,
+      "sha256": "9ef70738176c0a23b80ed48b6fea4a58b429b7a78260db0c800c9d73659d3cb7",
+      "comparison": "exact bytes",
+      "matchesLocal": true
+    },
+    {
+      "url": "https://lyoshagodx.github.io/quizzle-csv-export-report/samples/practice-results_SPEC_2026-10-05.csv",
+      "status": 200,
+      "bytes": 361,
+      "sha256": "99661bd87f35888da8017bfc565d5ae040bbc29e338750fa9ef8ff2fb06376f8",
+      "comparison": "exact bytes",
+      "matchesLocal": true
+    },
+    {
+      "url": "https://lyoshagodx.github.io/quizzle-csv-export-report/samples/practice-results_EMPT_2026-10-05.csv",
+      "status": 200,
+      "bytes": 56,
+      "sha256": "a2810f79077d6e2fab77f8ecb28a3d069da4a9e4098c30933e921f683d1d11a1",
+      "comparison": "exact bytes",
+      "matchesLocal": true
+    }
+  ],
+  "limitation": "HTTP and exact content comparison only; not visual or interactive browser verification."
+}
